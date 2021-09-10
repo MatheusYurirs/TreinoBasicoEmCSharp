@@ -1,0 +1,16 @@
+C:\EstudoC#\Estudo\bin\Debug\net5.0\Estudo.exe
+C:\EstudoC#\Estudo\bin\Debug\net5.0\Estudo.deps.json
+C:\EstudoC#\Estudo\bin\Debug\net5.0\Estudo.runtimeconfig.json
+C:\EstudoC#\Estudo\bin\Debug\net5.0\Estudo.runtimeconfig.dev.json
+C:\EstudoC#\Estudo\bin\Debug\net5.0\Estudo.dll
+C:\EstudoC#\Estudo\bin\Debug\net5.0\ref\Estudo.dll
+C:\EstudoC#\Estudo\bin\Debug\net5.0\Estudo.pdb
+C:\EstudoC#\Estudo\obj\Debug\net5.0\Estudo.csprojAssemblyReference.cache
+C:\EstudoC#\Estudo\obj\Debug\net5.0\Estudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudoC#\Estudo\obj\Debug\net5.0\Estudo.AssemblyInfoInputs.cache
+C:\EstudoC#\Estudo\obj\Debug\net5.0\Estudo.AssemblyInfo.cs
+C:\EstudoC#\Estudo\obj\Debug\net5.0\Estudo.csproj.CoreCompileInputs.cache
+C:\EstudoC#\Estudo\obj\Debug\net5.0\Estudo.dll
+C:\EstudoC#\Estudo\obj\Debug\net5.0\ref\Estudo.dll
+C:\EstudoC#\Estudo\obj\Debug\net5.0\Estudo.pdb
+C:\EstudoC#\Estudo\obj\Debug\net5.0\Estudo.genruntimeconfig.cache
